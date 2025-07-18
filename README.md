@@ -378,6 +378,14 @@ For support and questions:
 
 ---
 
+## 👥 Contributors
+
+Thanks to the amazing contributors who made this project possible:
+
+- [Chaitanya Sai Kurapati](https://github.com/ChaitanyaSaik) – Creator & Maintainer  
+- [Bandi Dheeraj](https://github.com/dheeraj-bandi) – Contributor (Feature Development / Bug Fixes / Testing / etc.)
+
+
 **Built with ❤️ for job seekers worldwide**
 
 *Empowering careers through AI-driven preparation*
